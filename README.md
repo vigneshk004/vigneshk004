@@ -33,7 +33,7 @@ I build scalable web apps, integrate blockchain, and deploy production-ready sys
   <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30" />
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" />
   <img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30" />
-  <img alt="Solidity" src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=024" width="30" />
+  <img alt="Ethereum" src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=024" width="30" />
 </p>
 
 ---
