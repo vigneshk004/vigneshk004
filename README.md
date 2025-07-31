@@ -3,14 +3,18 @@
 
 ## Hey there 👋, I'm Vignesh Kumar
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00C2FF&vCenter=true&width=600&lines=Hi,+I'm+Vignesh+Kumar!;Software+Developer+%7C+Web3+%26+DevOps+Enthusiast;Building+Scalable+Apps)](https://git.io/typing-svg)  
+
 💻 **Software Developer | Full-Stack & Web3 Enthusiast | DevOps & Cloud Engineer**  
-I build scalable web apps, integrate blockchain, and deploy production-ready systems.
+I build scalable web apps, integrate blockchain, and deploy production-ready systems.  
 
 ![Open to Work](https://img.shields.io/badge/Open%20to-US%20Internships%20%26%20Remote%20Roles-brightgreen?style=for-the-badge&logo=github)
 
 ---
 
 ### 👋 About Me
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" alt="Coding GIF">
 
 - 🌐 **Full Stack Developer** with React.js, Next.js, Node.js & MongoDB  
 - 🛠 **DevOps & Cloud:** GitHub Actions, Jenkins, Docker, Kubernetes, AWS  
