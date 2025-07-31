@@ -65,14 +65,22 @@
 
 ---
 
-## 🏙️ GitHub Skyline (3D Activity)
+## 🏙️ GitHub Activity (with axes-style heatmap)
 
 <p align="center">
-  <a href="https://skyline.github.com/vigneshk004"><img src="https://skyline.github.com/vigneshk004.png" alt="GitHub Skyline 3D graph" width="100%"/></a>
+  <!-- Fallback 2D heatmap from third party -->
+  <a href="https://github.com/vigneshk004">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshk004&theme=github" alt="Contribution graph" width="100%"/>
+  </a>
 </p>
 
 <p align="center">
-  <small>Interactive 3D contribution city: <a href="https://skyline.github.com/vigneshk004">View on Skyline</a></small>
+  <!-- Native-style heatmap you add manually for axes (screenshot) -->
+  <img src="./contributions.png" alt="GitHub contribution heatmap with axes" width="100%" />  
+</p>
+
+<p align="center">
+  <small>Interactive views: <a href="https://github.com/vigneshk004">GitHub Profile</a></small>
 </p>
 
 ---
