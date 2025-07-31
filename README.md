@@ -1,62 +1,56 @@
-<!-- Animated Banner -->
+<!-- Banner -->
 ![Tech Banner](https://raw.githubusercontent.com/vigneshk004/vigneshk004/main/banner.png)
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00C2FF&vCenter=true&width=600&lines=Hi,+I'm+Vignesh+Kumar!;Full+Stack+Developer+%7C+Web3+Enthusiast;DevOps+%7C+AWS+%7C+Cloud+Native)](https://git.io/typing-svg)
+## Hey there 👋, I'm Vignesh Kumar
+
+💻 **Software Developer | Full-Stack & Web3 Enthusiast | DevOps & Cloud Engineer**  
+I build scalable web apps, integrate blockchain, and deploy production-ready systems.
 
 ---
 
-## 👋 About Me
+### 👋 About Me
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" alt="Coding GIF">
-
-- 🌐 **Full Stack Developer** experienced with **React.js, Node.js, MongoDB, Next.js**  
-- 🛠 **DevOps & Cloud**: GitHub Actions, Jenkins, Docker, Kubernetes, AWS  
-- ⛓ **Blockchain**: Smart Contracts in **Solidity & Vyper**, DeFi Projects  
-- 📊 **Core Skills**: DSA, OOPs, API Development, DBMS
+- 🌐 **Full Stack Developer** with React.js, Next.js, Node.js & MongoDB  
+- 🛠 **DevOps & Cloud:** GitHub Actions, Jenkins, Docker, Kubernetes, AWS  
+- ⛓ **Blockchain:** Smart Contracts in Solidity & Vyper, DeFi integrations  
+- 📈 Strong foundation in **DSA, OOPs, API design**, and system thinking  
 
 ---
 
-## 🎯 Current Focus
-- Building **real-world Web3 + full-stack applications**  
-- Deploying **cloud-native applications** with **Docker + Kubernetes + AWS**  
-- Expanding **production-ready blockchain integrations**
-
----
-
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
+  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" />
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
+  <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" />
+  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" />
+  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" />
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" />
+  <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30" />
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" />
+  <img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30" />
+  <img alt="Solidity" src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=024" width="30" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+### 📌 Featured Projects
 
-- [**BuyKart**](https://github.com/vigneshk004/BuyKart) – Full-stack e-commerce app with **PayPal payments & seller dashboard**  
-- [**Digital Omega**](https://github.com/vigneshk004/Digital-Omega) – **Crypto crowdfunding platform** with admin & investor portals  
-- [**Bookstore Management App**](https://github.com/vigneshk004/Book-Store) – MERN-based **CRUD library system**
+- [**BuyKart**](https://github.com/vigneshk004/BuyKart) – Full-stack e-commerce app with secure PayPal integration and seller dashboard  
+- [**Digital Omega**](https://github.com/vigneshk004/Digital-Omega) – Crypto-backed crowdfunding platform with investor/admin portals  
+- [**Bookstore Management App**](https://github.com/vigneshk004/Book-Store) – MERN CRUD system for managing library inventory  
 
 ---
 
-## 📊 GitHub Stats & Trophies
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vigneshk004&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshk004&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vigneshk004&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshk004&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
@@ -65,27 +59,17 @@
 
 ---
 
-## 🏙️ GitHub Activity (with axes-style heatmap)
+### 🏃‍♂️ GitHub Activity
 
 <p align="center">
-  <!-- Fallback 2D heatmap from third party -->
   <a href="https://github.com/vigneshk004">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshk004&theme=github" alt="Contribution graph" width="100%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshk004&theme=github" width="100%" alt="Contribution graph"/>
   </a>
-</p>
-
-<p align="center">
-  <!-- Native-style heatmap you add manually for axes (screenshot) -->
-  <img src="./contributions.png" alt="GitHub contribution heatmap with axes" width="100%" />  
-</p>
-
-<p align="center">
-  <small>Interactive views: <a href="https://github.com/vigneshk004">GitHub Profile</a></small>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/vigneshk2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -95,4 +79,4 @@
 
 ---
 
-⭐ **Fun Fact:** I’m currently building my own **cryptocurrency for DeFi applications!**
+⭐ **Fun Fact:** I’m building my own cryptocurrency for DeFi applications!
