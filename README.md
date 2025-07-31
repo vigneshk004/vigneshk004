@@ -14,23 +14,23 @@
 ## 👨‍💻 About Me
 
 I’m a **Full Stack + Web3 Developer** and **DevOps Engineer** passionate about:  
-- 🌐 **Scalable Web Apps** with React.js, Node.js, and Next.js  
-- ⛓ **Blockchain Development** with Solidity & Vyper for DeFi projects  
-- ☁️ **Cloud & DevOps**: Docker, Kubernetes, AWS, GitHub Actions, CI/CD  
-- 💡 Building **production-ready applications** and solving **real-world problems**
+- 🌐 Building scalable web applications with **React.js**, **Next.js**, and **Node.js**  
+- ⛓ Developing blockchain solutions using **Solidity** & **Vyper** for DeFi  
+- ☁️ Crafting production-grade deployments with **Docker**, **Kubernetes**, **AWS**, and CI/CD  
+- 💡 Solving real problems through clean architecture and systems thinking
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## ⚡ Tech Arsenal
 
-### **Frontend** 🎨
+### **Frontend** 🎨  
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### **Backend** ⚙️
+### **Backend** ⚙️  
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -39,7 +39,7 @@ I’m a **Full Stack + Web3 Developer** and **DevOps Engineer** passionate about
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-### **DevOps & Cloud** ☁️
+### **DevOps & Cloud** ☁️  
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -48,7 +48,7 @@ I’m a **Full Stack + Web3 Developer** and **DevOps Engineer** passionate about
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
-### **Blockchain** ⛓
+### **Blockchain** ⛓  
 <p>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vyper-FFD700?style=for-the-badge&logo=python&logoColor=black"/>
@@ -61,14 +61,14 @@ I’m a **Full Stack + Web3 Developer** and **DevOps Engineer** passionate about
 
 - [**BuyKart**](https://github.com/vigneshk004/BuyKart)  
   🛒 *Full-stack e-commerce app with PayPal payments & seller dashboard*  
-  Tech: React, Node, MongoDB, Express, PayPal API
+  Tech: React, Node.js, MongoDB, Express, PayPal API
 
 - [**Digital Omega**](https://github.com/vigneshk004/Digital-Omega)  
   💰 *Crypto crowdfunding platform with investor/admin portals*  
   Tech: React, Solidity, Web3.js, MongoDB
 
 - [**Bookstore Management App**](https://github.com/vigneshk004/Book-Store)  
-  📚 *MERN CRUD app for library inventory management*  
+  📚 *MERN CRUD application for library inventory management*  
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
