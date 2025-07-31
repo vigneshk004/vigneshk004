@@ -1,5 +1,7 @@
 <!-- Animated Banner -->
-![Vignesh Kumar Banner](./assets/banner.png)
+
+![Vignesh Kumar Banner](https://raw.githubusercontent.com/vigneshk004/vigneshk004/main/assets/banner.png)
+
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00C2FF&vCenter=true&width=600&lines=Hi,+I'm+Vignesh+Kumar!;Full+Stack+Developer+%7C+Web3+Enthusiast;DevOps+%7C+AWS+%7C+Cloud+Native)](https://git.io/typing-svg)
