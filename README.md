@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 
-![Vignesh Kumar Banner](https://raw.githubusercontent.com/vigneshk004/vigneshk004/main/assets/banner.png)
+![Vignesh Kumar Banner](https://github.com/vigneshk004/vigneshk004/blob/main/banner.png)
 
 
 <!-- Typing Animation -->
