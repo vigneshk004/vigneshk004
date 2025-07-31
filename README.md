@@ -1,7 +1,5 @@
 <!-- Animated Banner -->
-
-![Vignesh Kumar Banner](https://github.com/vigneshk004/vigneshk004/blob/main/banner.png)
-
+![Tech Banner](https://raw.githubusercontent.com/vigneshk004/vigneshk004/main/banner.png)
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00C2FF&vCenter=true&width=600&lines=Hi,+I'm+Vignesh+Kumar!;Full+Stack+Developer+%7C+Web3+Enthusiast;DevOps+%7C+AWS+%7C+Cloud+Native)](https://git.io/typing-svg)
@@ -63,6 +61,18 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vigneshk004&theme=onedark&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshk004&theme=github" width="100%"/>
+</p>
+
+<p align="center">
+  <small>Full interactive history: <a href="https://github.com/vigneshk004">GitHub Profile</a></small>
 </p>
 
 ---
