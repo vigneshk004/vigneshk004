@@ -9,6 +9,8 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 ## 👨‍💻 About Me
 
 I’m a **Full Stack + Web3 Developer** and **DevOps Engineer** passionate about:  
@@ -17,18 +19,18 @@ I’m a **Full Stack + Web3 Developer** and **DevOps Engineer** passionate about
 - ☁️ **Cloud & DevOps**: Docker, Kubernetes, AWS, GitHub Actions, CI/CD  
 - 💡 Building **production-ready applications** and solving **real-world problems**
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## ⚡ Tech Arsenal
 
-### **Frontend**
+### **Frontend** 🎨
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### **Backend**
+### **Backend** ⚙️
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -37,7 +39,7 @@ I’m a **Full Stack + Web3 Developer** and **DevOps Engineer** passionate about
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
-### **DevOps & Cloud**
+### **DevOps & Cloud** ☁️
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -46,14 +48,14 @@ I’m a **Full Stack + Web3 Developer** and **DevOps Engineer** passionate about
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
-### **Blockchain**
+### **Blockchain** ⛓
 <p>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vyper-FFD700?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🚀 Featured Projects
 
@@ -68,7 +70,7 @@ I’m a **Full Stack + Web3 Developer** and **DevOps Engineer** passionate about
 - [**Bookstore Management App**](https://github.com/vigneshk004/Book-Store)  
   📚 *MERN CRUD app for library inventory management*  
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📊 GitHub Highlights
 
@@ -85,7 +87,7 @@ I’m a **Full Stack + Web3 Developer** and **DevOps Engineer** passionate about
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vigneshk004&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🌐 Let’s Connect
 
