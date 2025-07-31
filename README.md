@@ -65,14 +65,14 @@
 
 ---
 
-## 📈 GitHub Activity Graph
+## 🏙️ GitHub Skyline (3D Activity)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshk004&theme=github" width="100%"/>
+  <a href="https://skyline.github.com/vigneshk004"><img src="https://skyline.github.com/vigneshk004.png" alt="GitHub Skyline 3D graph" width="100%"/></a>
 </p>
 
 <p align="center">
-  <small>Full interactive history: <a href="https://github.com/vigneshk004">GitHub Profile</a></small>
+  <small>Interactive 3D contribution city: <a href="https://skyline.github.com/vigneshk004">View on Skyline</a></small>
 </p>
 
 ---
