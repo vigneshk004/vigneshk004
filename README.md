@@ -6,6 +6,8 @@
 💻 **Software Developer | Full-Stack & Web3 Enthusiast | DevOps & Cloud Engineer**  
 I build scalable web apps, integrate blockchain, and deploy production-ready systems.
 
+![Open to Work](https://img.shields.io/badge/Open%20to-US%20Internships%20%26%20Remote%20Roles-brightgreen?style=for-the-badge&logo=github)
+
 ---
 
 ### 👋 About Me
@@ -55,16 +57,6 @@ I build scalable web apps, integrate blockchain, and deploy production-ready sys
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vigneshk004&theme=onedark&margin-w=15&margin-h=15"/>
-</p>
-
----
-
-### 🏃‍♂️ GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/vigneshk004">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshk004&theme=github" width="100%" alt="Contribution graph"/>
-  </a>
 </p>
 
 ---
