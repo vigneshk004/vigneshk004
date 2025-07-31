@@ -1,71 +1,93 @@
-<!-- Banner -->
+<!-- Animated Banner -->
 ![Tech Banner](https://raw.githubusercontent.com/vigneshk004/vigneshk004/main/banner.png)
 
-## Hey there 👋, I'm Vignesh Kumar
+# Hey there 👋, I'm Vignesh Kumar
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00C2FF&vCenter=true&width=600&lines=Hi,+I'm+Vignesh+Kumar!;Software+Developer+%7C+Web3+%26+DevOps+Enthusiast;Building+Scalable+Apps)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00F5FF&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Web3+%26+DevOps+Engineer;Full-Stack+Developer+%7C+Cloud-Native+Builder;Open+to+US+Internships+and+Remote+Roles)](https://git.io/typing-svg)
 
-💻 **Software Developer | Full-Stack & Web3 Enthusiast | DevOps & Cloud Engineer**  
-I build scalable web apps, integrate blockchain, and deploy production-ready systems.  
-
-![Open to Work](https://img.shields.io/badge/Open%20to-US%20Internships%20%26%20Remote%20Roles-brightgreen?style=for-the-badge&logo=github)
+![Open to Work](https://img.shields.io/badge/Open%20to-US%20Internships%20%26%20Remote-brightgreen?style=for-the-badge&logo=github)
 
 ---
 
-### 👋 About Me
+## 👨‍💻 About Me
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" alt="Coding GIF">
-
-- 🌐 **Full Stack Developer** with React.js, Next.js, Node.js & MongoDB  
-- 🛠 **DevOps & Cloud:** GitHub Actions, Jenkins, Docker, Kubernetes, AWS  
-- ⛓ **Blockchain:** Smart Contracts in Solidity & Vyper, DeFi integrations  
-- 📈 Strong foundation in **DSA, OOPs, API design**, and system thinking  
+I’m a **Full Stack + Web3 Developer** and **DevOps Engineer** passionate about:  
+- 🌐 **Scalable Web Apps** with React.js, Node.js, and Next.js  
+- ⛓ **Blockchain Development** with Solidity & Vyper for DeFi projects  
+- ☁️ **Cloud & DevOps**: Docker, Kubernetes, AWS, GitHub Actions, CI/CD  
+- 💡 Building **production-ready applications** and solving **real-world problems**
 
 ---
 
-### 🛠 Tech Stack
+## ⚡ Tech Arsenal
 
-<p align="center">
-  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />
-  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
-  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" />
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" />
-  <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" />
-  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" />
-  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" />
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />
-  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" />
-  <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30" />
-  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" />
-  <img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30" />
-  <img alt="Ethereum" src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=024" width="30" />
+### **Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+### **Backend**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+### **DevOps & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
+
+### **Blockchain**
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vyper-FFD700?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
 </p>
 
 ---
 
-### 📌 Featured Projects
+## 🚀 Featured Projects
 
-- [**BuyKart**](https://github.com/vigneshk004/BuyKart) – Full-stack e-commerce app with secure PayPal integration and seller dashboard  
-- [**Digital Omega**](https://github.com/vigneshk004/Digital-Omega) – Crypto-backed crowdfunding platform with investor/admin portals  
-- [**Bookstore Management App**](https://github.com/vigneshk004/Book-Store) – MERN CRUD system for managing library inventory  
+- [**BuyKart**](https://github.com/vigneshk004/BuyKart)  
+  🛒 *Full-stack e-commerce app with PayPal payments & seller dashboard*  
+  Tech: React, Node, MongoDB, Express, PayPal API
 
----
+- [**Digital Omega**](https://github.com/vigneshk004/Digital-Omega)  
+  💰 *Crypto crowdfunding platform with investor/admin portals*  
+  Tech: React, Solidity, Web3.js, MongoDB
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vigneshk004&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshk004&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vigneshk004&theme=onedark&margin-w=15&margin-h=15"/>
-</p>
+- [**Bookstore Management App**](https://github.com/vigneshk004/Book-Store)  
+  📚 *MERN CRUD app for library inventory management*  
 
 ---
 
-### 🌐 Connect With Me
+## 📊 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vigneshk004&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshk004&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vigneshk004&theme=onedark&margin-w=10&margin-h=10&no-bg=true&no-frame=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vigneshk004&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🌐 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/vigneshk2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
