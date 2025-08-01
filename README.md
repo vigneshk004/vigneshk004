@@ -3,7 +3,7 @@
 
 # Hey there 👋, I'm Vignesh Kumar
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00F5FF&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Web3+%26+DevOps+Engineer;Full-Stack+Developer+%7C+Cloud-Native+Builder;Open+to+US+Internships+and+Remote+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=80&lines=Software+Developer+%7C+Web3+%26+DevOps+Engineer;Full-Stack+Developer+%7C+Cloud-Native+Builder;Open+to+US+Internships+and+Remote+Roles)](https://git.io/typing-svg)
 
 ![Open to Work](https://img.shields.io/badge/Open%20to-US%20Internships%20%26%20Remote-brightgreen?style=for-the-badge&logo=github)
 
@@ -14,9 +14,9 @@
 ## 👨‍💻 About Me
 
 I’m a **Full Stack + Web3 Developer** and **DevOps Engineer** passionate about:  
-- 🌐 **Scalable Web Apps** with React.js, Node.js, and Next.js  
-- ⛓ **Blockchain Development** with Solidity & Vyper for DeFi  
-- ☁️ **Cloud & DevOps**: Docker, Kubernetes, AWS, GitHub Actions, CI/CD  
+- 🌐 Building scalable web applications with **React.js**, **Next.js**, and **Node.js**  
+- ⛓ Developing blockchain solutions using **Solidity** & **Vyper** for DeFi  
+- ☁️ Crafting production-grade deployments with **Docker**, **Kubernetes**, **AWS**, and CI/CD  
 - 💡 Solving real problems through clean architecture and systems thinking
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -43,7 +43,7 @@ I’m a **Full Stack + Web3 Developer** and **DevOps Engineer** passionate about
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
@@ -68,7 +68,7 @@ I’m a **Full Stack + Web3 Developer** and **DevOps Engineer** passionate about
   Tech: React, Solidity, Web3.js, MongoDB
 
 - [**Bookstore Management App**](https://github.com/vigneshk004/Book-Store)  
-  📚 *MERN CRUD application for library inventory management*  
+  📚 *MERN CRUD application for library inventory management*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
