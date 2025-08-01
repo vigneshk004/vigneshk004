@@ -14,9 +14,9 @@
 ## 👨‍💻 About Me
 
 I’m a **Full Stack + Web3 Developer** and **DevOps Engineer** passionate about:  
-- 🌐 Building scalable web applications with **React.js**, **Next.js**, and **Node.js**  
-- ⛓ Developing blockchain solutions using **Solidity** & **Vyper** for DeFi  
-- ☁️ Crafting production-grade deployments with **Docker**, **Kubernetes**, **AWS**, and CI/CD  
+- 🌐 **Scalable Web Apps** with React.js, Node.js, and Next.js  
+- ⛓ **Blockchain Development** with Solidity & Vyper for DeFi  
+- ☁️ **Cloud & DevOps**: Docker, Kubernetes, AWS, GitHub Actions, CI/CD  
 - 💡 Solving real problems through clean architecture and systems thinking
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
