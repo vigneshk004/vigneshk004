@@ -13,6 +13,9 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 👨‍💻 About Me
+ About Me
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right" alt="Coding GIF">
 
 I’m a **Full Stack + Web3 Developer** and **DevOps Engineer** passionate about:  
 - 🌐 Building scalable web applications with **React.js**, **Next.js**, and **Node.js**  
