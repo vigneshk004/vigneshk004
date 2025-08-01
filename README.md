@@ -3,7 +3,8 @@
 
 # Hey there 👋, I'm Vignesh Kumar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=80&lines=Software+Developer+%7C+Web3+%26+DevOps+Engineer;Full-Stack+Developer+%7C+Cloud-Native+Builder;Open+to+US+Internships+and+Remote+Roles)](https://git.io/typing-svg)
+<!-- Typing animation -->
+![Typing SVG](https://readme-typing-svg.demolab.com?size=26&lines=Software+Developer+%7C+Web3+%26+DevOps+Engineer;Full-Stack+Developer+%7C+Cloud-Native+Builder;Open+to+US+Internships+and+Remote+Roles)
 
 ![Open to Work](https://img.shields.io/badge/Open%20to-US%20Internships%20%26%20Remote-brightgreen?style=for-the-badge&logo=github)
 
