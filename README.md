@@ -4,7 +4,9 @@
 # Hey there 👋, I'm Vignesh Kumar
 
 <!-- Typing animation -->
-![Typing SVG](https://readme-typing-svg.demolab.com?size=26&lines=Software+Developer+%7C+Web3+%26+DevOps+Engineer;Full-Stack+Developer+%7C+Cloud-Native+Builder;Open+to+US+Internships+and+Remote+Roles)
+<!-- Typing animation -->
+![Typing SVG](https://readme-typing-svg.demolab.com?size=26&duration=3000&pause=500&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+Web3+%26+DevOps+Engineer;Full-Stack+Developer+%7C+Cloud-Native+Builder;Open+to+US+Internships+and+Remote+Roles)
+
 
 ![Open to Work](https://img.shields.io/badge/Open%20to-US%20Internships%20%26%20Remote-brightgreen?style=for-the-badge&logo=github)
 
